@@ -1,0 +1,13 @@
+# Current time Wed Apr 06 20:36:30 2016
+# ModelSim Stack Trace
+# Program = vish
+# Id = "10.2"
+# Version = "2013.02"
+# Date = "Feb  2 2013"
+# Platform = win64
+
+Exception c0000005 has occurred at address 4013c4d2. Traceback:
+# 0    0x4013c4d2: 'Mtirpc_Init + 0x50e42'
+StackWalk failed 0
+# End of Stack Trace
+

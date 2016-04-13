@@ -1,0 +1,34 @@
+# Reading C:/my/modeltech64_10.2/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.2 Feb  2 2013 
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile D:/FPGA/altera13.0project/Uart_zhixin/sim/Uart.mpf 
+# Loading project Uart
+# Compile of Bps_select.v was successful.
+# Compile of Uart_rx.v was successful.
+# Compile of Uart_tb.v was successful.
+# Compile of Uart_top.v was successful.
+# Compile of Uart_tx.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -novopt work.Uart_tb
+# vsim -novopt work.Uart_tb 
+# Refreshing D:/FPGA/altera13.0project/Uart_zhixin/sim/work.Uart_tb
+# Loading work.Uart_tb
+# Refreshing D:/FPGA/altera13.0project/Uart_zhixin/sim/work.Uart_top
+# Loading work.Uart_top
+# Refreshing D:/FPGA/altera13.0project/Uart_zhixin/sim/work.Bps_select
+# Loading work.Bps_select
+# Refreshing D:/FPGA/altera13.0project/Uart_zhixin/sim/work.Uart_rx
+# Loading work.Uart_rx
+# Refreshing D:/FPGA/altera13.0project/Uart_zhixin/sim/work.Uart_tx
+# Loading work.Uart_tx
+add wave -position insertpoint sim:/Uart_tb/*
+run
+run
+run

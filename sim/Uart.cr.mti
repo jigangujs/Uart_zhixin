@@ -1,0 +1,36 @@
+D:/FPGA/altera13.0project/Uart_zhixin/design/Bps_select.v {1 {vlog -work work -vopt {D:\FPGA\altera13.0project\Uart_zhixin\design\Bps_select.v}
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module Bps_select
+
+Top level modules:
+	Bps_select
+
+} {} {}} D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_rx.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_rx.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module Uart_rx
+
+Top level modules:
+	Uart_rx
+
+} {} {}} D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tb.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tb.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module Uart_tb
+
+Top level modules:
+	Uart_tb
+
+} {} {}} D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_top.v {1 {vlog -work work -vopt {D:\FPGA\altera13.0project\Uart_zhixin\design\Uart_top.v}
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module Uart_top
+
+Top level modules:
+	Uart_top
+
+} {} {}} D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tx.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tx.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module Uart_tx
+
+Top level modules:
+	Uart_tx
+
+} {} {}}

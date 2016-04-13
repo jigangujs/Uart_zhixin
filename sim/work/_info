@@ -1,0 +1,104 @@
+m255
+K4
+z2
+13
+cModel Technology
+dD:\FPGA\altera13.0project\serial2parallel\sim
+!i10d 8192
+!i10e 25
+!i10f 100
+vBps_select
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+IoQIUllGn<JNb`>XzM<KJ^3
+Z1 dD:\FPGA\altera13.0project\Uart_zhixin\sim
+w1460078782
+8D:\FPGA\altera13.0project\Uart_zhixin\design\Bps_select.v
+FD:\FPGA\altera13.0project\Uart_zhixin\design\Bps_select.v
+L0 7
+Z2 OL;L;10.2;57
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@bps_select
+!s85 0
+!s100 Cb8W]G6P262fikZAJb_jW2
+!s108 1460515912.425000
+!s107 D:\FPGA\altera13.0project\Uart_zhixin\design\Bps_select.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:\FPGA\altera13.0project\Uart_zhixin\design\Bps_select.v|
+!i10b 1
+vUart_rx
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+IMmmQH]zibNh0f9_Qn2]nW2
+R1
+w1459932615
+8D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_rx.v
+FD:/FPGA/altera13.0project/Uart_zhixin/design/Uart_rx.v
+L0 7
+R2
+R3
+n@uart_rx
+!s85 0
+!s100 Ql7Hz0DM]B2gheA?7UICL1
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_rx.v|
+!s108 1460515912.544000
+!s107 D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_rx.v|
+!i10b 1
+vUart_tb
+R4
+r1
+31
+IjF@@KNJz<QF`_MSS6bhfC0
+R1
+w1459948932
+8D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tb.v
+FD:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tb.v
+L0 3
+R2
+R3
+n@uart_tb
+!s85 0
+!s100 0;iVk@Oe>5zTZZ@NEak_a1
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tb.v|
+!s108 1460515912.661000
+!s107 D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tb.v|
+!i10b 1
+vUart_top
+R4
+r1
+31
+ImVT5CUP04;ke8BV@Q4[kM2
+R1
+w1459950953
+8D:\FPGA\altera13.0project\Uart_zhixin\design\Uart_top.v
+FD:\FPGA\altera13.0project\Uart_zhixin\design\Uart_top.v
+L0 1
+R2
+R3
+n@uart_top
+!s85 0
+!s100 Zl0A2EP5dkRGd0fhf]6Pe3
+!s108 1460515912.772000
+!s107 D:\FPGA\altera13.0project\Uart_zhixin\design\Uart_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:\FPGA\altera13.0project\Uart_zhixin\design\Uart_top.v|
+!i10b 1
+vUart_tx
+R4
+r1
+!s85 0
+31
+Ib5Gmo=>2X?Hgl_LlK247^0
+R1
+w1459944680
+8D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tx.v
+FD:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tx.v
+L0 7
+R2
+R3
+n@uart_tx
+!s100 Do`8;3<0^[X9MP1<gkmFP2
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tx.v|
+!i10b 1
+!s108 1460515912.886000
+!s107 D:/FPGA/altera13.0project/Uart_zhixin/design/Uart_tx.v|
